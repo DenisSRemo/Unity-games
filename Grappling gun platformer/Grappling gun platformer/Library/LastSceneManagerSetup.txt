@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/assets/2 Basic Map Layout LSavvides.unity
+  isLoaded: 1
+  isActive: 1
